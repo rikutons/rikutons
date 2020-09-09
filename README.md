@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm rikutons</h1>
-<h3 align="center">A passionate frontend developer from Japan</h3>
+<h3 align="center">A cool frontend developer and college student from Japan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rikutons&color=green" alt="rikutons" /> </p>
 
