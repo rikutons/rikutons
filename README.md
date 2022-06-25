@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm rikutons</h1>
 <p align="center">
-<img src="https://img.shields.io/badge/-twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=fff&labelColor=333">
+<a href="https://twitter.com/livinginpaddy"><img src="https://img.shields.io/badge/-twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=fff&labelColor=333"></a>
 <a href="https://sueta.jp"><img src="https://shields.io/badge/-Portfolio-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=fff&labelColor=333" /></a>
 <a href="https://github.com/rikutons"><img src="https://shields.io/badge/-Github-181717?style=for-the-badge&logo=github&logoColor=fff&labelColor=333" /></a>
 </p>
